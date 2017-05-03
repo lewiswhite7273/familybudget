@@ -177,14 +177,6 @@ public class NewJFrame extends javax.swing.JFrame {
 
         jLabel12.setText("Savings:");
 
-        per1.setText("%");
-
-        per2.setText("%");
-
-        per3.setText("%");
-
-        per4.setText("%");
-
         bar2.setBackground(new java.awt.Color(0, 51, 255));
         bar2.setOpaque(true);
 
@@ -356,10 +348,10 @@ public class NewJFrame extends javax.swing.JFrame {
         double sperc = (s / n) * 100;
         double tperc = (t / n) * 100;
         
-        per1.setText((int)hperc + "");
-        per2.setText((int)tperc + "");
-        per3.setText((int)lperc + "");
-        per4.setText((int)sperc + "");
+        per1.setText((int)hperc + "%");
+        per2.setText((int)tperc + "%");
+        per3.setText((int)lperc + "%");
+        per4.setText((int)sperc + "%");
         
         for (int jim = 0; jim < hperc; jim++){
             bar11 += " ";

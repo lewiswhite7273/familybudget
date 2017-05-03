@@ -340,24 +340,12 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="per1">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="%"/>
-          </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="per2">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="%"/>
-          </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="per3">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="%"/>
-          </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="per4">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="%"/>
-          </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="bar2">
           <Properties>
